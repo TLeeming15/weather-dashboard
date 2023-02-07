@@ -41,7 +41,7 @@ As someone travelling to a different city they want to know what the weather wil
 
 ## Usage
 
-The following images show the completed website. You can visit here: https://nileshpatel83.github.io/Trivia-Games/
+The following images show the completed website. You can visit here: 
 
 <img src="assets/images/homepage.png" alt="Photo of logo and begin button and instructions to play"/>
 
