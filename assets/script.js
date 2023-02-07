@@ -37,7 +37,4 @@ function checkDay(day){
         return day +d.getDay();
     }
 }
-
-for (i=0;i<5;i++){
-    document.getElementById("day"+(i+1)).innerHTML = weekday[checkDay(i)];
-}
+    }
