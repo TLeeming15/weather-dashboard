@@ -1,2 +1,60 @@
+*{
+    color: black;
+    background-color: greenyellow;
+}
+
+#cityInput, #city, #input, button{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+#display{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    height: 275px;
+    width: 1200px;
+    border: 3px solid;
+}
+
+#iconsContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    height: 275px;
+    width: 1200px;
+    border: 3px solid;    
+}
+
+.icons{
+    display: inline-block;
+    /* float:left; */
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 3px solid;
+}
+
+.image, .imageClass{
+    height: 140px;
+    width: 100%;
+}
+
+.Temp, .humidity, .speed{
+    text-align: center;
+    display:inline-block;
+    border-radius: 5px;
+    height: 25px;
+    width: 75px;
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 
 
